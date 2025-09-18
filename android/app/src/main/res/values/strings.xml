@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CallBlocker</string>
+    <string name="accessibility_service_description">Serviço para bloquear chamadas de WhatsApp de números desconhecidos</string>
 </resources>
